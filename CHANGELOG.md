@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.7.0](https://github.com/thomasbrodusch/vitest-fail-on-console/compare/v0.4.2...v0.7.0) (2024-05-10)
+
+### Chores
+* add dependabot.yml
+
+### Features
+
+* add yarn.lock ([69243e3](https://github.com/thomasbrodusch/vitest-fail-on-console/commits/69243e3597a142a054861c29e9562708d487f2f9))
+
+
+### Bug Fixes
+* warning vite does not support 'rollupOptions.output.sourcemap' ([e9fe18d](https://github.com/thomasbrodusch/vitest-fail-on-console/commits/e9fe18df65d2cd67826add6b448720daf20190fe))
+
 ### [0.6.3](https://github.com/thomasbrodusch/vitest-fail-on-console/compare/v0.4.2...v0.6.3) (2024-03-18)
 
 
