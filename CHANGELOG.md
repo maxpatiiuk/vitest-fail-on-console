@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.7.1](https://github.com/thomasbrodusch/vitest-fail-on-console/compare/v0.7.0...v0.7.1) (2024-09-02)
+
+
+### Bug Fixes
+
+* **#59:** typeerror - default is not a function ([f45eecd](https://github.com/thomasbrodusch/vitest-fail-on-console/commits/f45eecdd5b661e93b663c1b851798ed27eaad03b)), closes [#59](https://github.com/thomasbrodusch/vitest-fail-on-console/issues/59) [/github.com/vitest-dev/vitest/issues/6352#issuecomment-2294477456](https://github.com/thomasbrodusch//github.com/vitest-dev/vitest/issues/6352/issues/issuecomment-2294477456)
+
 ## [0.7.0](https://github.com/thomasbrodusch/vitest-fail-on-console/compare/v0.4.2...v0.7.0) (2024-05-10)
 
 ### Chores
